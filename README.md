@@ -47,11 +47,7 @@ Sprint | Previsão | Status| Histórico|
 
 # *Equipe*
 
-![WhatsApp Image 2024-09-06 at 20 56 23](https://github.com/user-attachments/assets/425f69fd-280c-46f2-b77f-00b5c132297e)
-
-
-
-
+![Black and Grey Introduction of Our Team Instagram Post (1)](https://github.com/user-attachments/assets/3cf06118-05e1-499b-a2ac-b8a36dc4e857)
 
 # _Objetivo do Projeto_
 Missão: A LOGFREE tem como objetivo buscar atender as demandas dos variados tipos de modais utilizando ferramentas digitais para demonstrar o fluxo de movimentação de cargas no Brasil.
@@ -77,7 +73,9 @@ Valores:
 # *5W2H*
 
 - *1ª Sprint*
-
+ ![image](https://github.com/user-attachments/assets/a4449278-18cb-4e66-9328-3c285801fe7d)
+  - *arquivo:* [5w2h.sprint1 1.xlsx](https://github.com/user-attachments/files/19595902/5w2h.sprint1.1.xlsx)
+  
 - *2ª Sprint*
 
 - *3ª Sprint*
