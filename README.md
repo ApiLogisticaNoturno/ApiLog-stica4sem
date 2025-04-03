@@ -76,31 +76,13 @@ Valores:
 
 # *5W2H*
 
-*1ª Sprint*
-![5W2H sprint1](https://github.com/user-attachments/assets/3527a550-33e9-432e-8d2d-31c5f0d8f045)
+- *1ª Sprint*
 
-* 5W2H Arquivo [5w2h.sprint1.xlsx](https://github.com/user-attachments/files/17090255/5w2h.sprint1.xlsx)
-
-
-*2ª Sprint*
-
-![5w2h sprint 2](https://github.com/user-attachments/assets/74456bec-d85e-4b58-8db5-16621aac1ab0)
-
-* 5W2H Arquivo [5w2h.sprint2.xlsx](https://github.com/user-attachments/files/17441577/5w2h.sprint2.xlsx)
+- *2ª Sprint*
 
 - *3ª Sprint*
   
-![Sprint 3 5w2h](https://github.com/user-attachments/assets/8dba8fc1-baa7-4364-8caf-610777142c72)
-
-* 5W2H Arquivo [5w2h.sprint3.xlsx](https://github.com/user-attachments/files/17604877/5w2h.sprint3.xlsx)
-
- 
 - *4ª Sprint*
-
-![5w2h sprint 4](https://github.com/user-attachments/assets/feb231e9-ce58-4abe-90c6-a64bb4920cac)
-
-* 5W2H Arquivo [5w2h API SPRINT 4.xlsx](https://github.com/user-attachments/files/17954076/5w2h.API.SPRINT.4.xlsx)
-
 
 # *Tecnologias Utilizadas*
 ![TECNOLOGIAS ATT](https://github.com/user-attachments/assets/2e09e388-c429-448d-b38e-4daba5e6fcb2)
@@ -117,43 +99,38 @@ Valores:
 
  
  # *Burndown*
- *Sprint 2:*
- 
-![Burndown](https://github.com/user-attachments/assets/b53ea837-d074-4935-b525-e2ceaf983f85)
-
- *Sprint 3:*
- 
-![burndown](https://github.com/user-attachments/assets/864e4c7f-9e39-4c8a-b7c3-7976362271d1)
-
 
 # *Backlog*
 ## *Sprint um*:
 - [x] Estruturação do GitHub.
 - [x] Estruturação do Jira Software;
-- [x] Estudo do Python;
+- [x] Estudo sobre User Story;
 - [x] Estudo do SQL;
-- [x] Tratamento de dados através do SQL;
+- [x] Estudo sobre terminais portuários;
 - [x] Análise SWOT;
 - [x] Desenvolvimento 5W2H; 
 - [x] Documentar todas as informações e processos;
      
 ## *Sprint dois*:
-- [x] Tratamento de dados através de Python;
-- [x] Criar Power BI consultando dados do SQL;
-- [x] Criar Power BI consultando dados do Python;
-- [x] Criar indicadores de rotas;
-- [x] Criar método de calculo real por km;
-- [x] Documentar todas as informações e processos;
+- [ ] Fazer analise dos terminais portuários;
+- [ ] Investigação das questões apresentadas pelo cliente;
+- [ ] Estudo código Python;
+- [ ] Dar início no Dashboard;
+- [ ] Atualização JiraSoftware;
+- [ ] Atualização GitHub;
+- [ ] Documentar todas as informações e processos;
 
 ## *Sprint três*:
-- [x] Ajuste do dashboard de acordo com resoluções do cliente;
-- [x] Aplicação do método de transportes para a otimização da distribuição no Python;
-- [x] Documentar todas as informações e processos;
+- [ ] Ajustes no Dashboard de acordo com feedback do cliente;
+- [ ] Atualização dos módulos no Dashboard;
+- [ ] Atualização JiraSoftware;
+- [ ] Atualização GitHub;
+- [ ] Criar apresentação para a Feira de Soluições;
+- [ ] Documentar todas as informações e processos;
 
 ## *Sprint quatro*:
-- [x] Ajuste do dashboard de acordo com resoluções do cliente;
-- [x] Criar apresentação para a Feira de Soluições;
-- [x] Documentar todas as informações e processos;
+- [ ] Ajuste do dashboard de acordo com resoluções do cliente;
+- [ ] Documentar todas as informações e processos;
 
 # Competências desenvolvidas
 
