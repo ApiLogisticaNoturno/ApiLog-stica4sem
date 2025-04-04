@@ -100,7 +100,7 @@ Valores:
 
 # *Backlog*
 ## *Sprint um*:
-- [x] Estruturação do GitHub.
+- [x] Estruturação do GitHub;
 - [x] Estruturação do Jira Software;
 - [x] Estudo sobre User Story;
 - [x] Estudo do SQL;
