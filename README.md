@@ -73,7 +73,7 @@ Valores:
 # *5W2H*
 
 - *1ª Sprint*
- ![image](https://github.com/user-attachments/assets/a4449278-18cb-4e66-9328-3c285801fe7d)
+ ![image](https://github.com/user-attachments/assets/40d6047a-2495-416d-bc65-c89661a5f66a)
   - *arquivo:* [5w2h.sprint1 1.xlsx](https://github.com/user-attachments/files/19595902/5w2h.sprint1.1.xlsx)
   
 - *2ª Sprint*
