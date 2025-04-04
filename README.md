@@ -50,7 +50,7 @@ Sprint | Previsão | Status| Histórico|
 ![Black and Grey Introduction of Our Team Instagram Post (1)](https://github.com/user-attachments/assets/3cf06118-05e1-499b-a2ac-b8a36dc4e857)
 
 # _Objetivo do Projeto_
-Missão: A LOGFREE tem como objetivo buscar atender as demandas dos variados tipos de modais utilizando ferramentas digitais para demonstrar o fluxo de movimentação de cargas no Brasil.
+Missão: A LOGFREE tem como objetivo buscar atender a demanda do cliente visando disponibilizar informações sobre a eficiência portuária com base nos tempos de processamento dos portos brasileiros e dados especifícos do setor.
 
 Visão: Com o mais alto nivel de tecnologia, a LOGFREE objetiva se manter no topo do cenário nacional como uma organização estruturada para atender as variadas demandas do mercado atual.
 
