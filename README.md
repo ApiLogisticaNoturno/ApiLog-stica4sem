@@ -27,7 +27,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 14/03/2025 | Concluído |-----------------| 
-|01| 04/04/2025| Concluído |[Ver relatório][RELATÓRIO SPRINT 1 LOGFREE (1).pdf](https://github.com/user-attachments/files/19611151/RELATORIO.SPRINT.1.LOGFREE.1.pdf)|
+|01| 04/04/2025| Concluído |[Ver relatório](https://github.com/user-attachments/files/19611151/RELATORIO.SPRINT.1.LOGFREE.1.pdf)|
 |02| 25/04/2025| Pendente ||
 |03| 16/05/2025 | Pendente ||
 |04| 27/06/2025 | Pendente ||
