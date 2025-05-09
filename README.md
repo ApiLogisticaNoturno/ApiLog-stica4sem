@@ -74,9 +74,13 @@ Valores:
 
 - *1ª Sprint*
  ![image](https://github.com/user-attachments/assets/40d6047a-2495-416d-bc65-c89661a5f66a)
-  - *arquivo:* [5w2h.sprint1 1.xlsx](https://github.com/user-attachments/files/19595902/5w2h.sprint1.1.xlsx)
+  - *arquivo:* [5w2h.sprint1.xlsx](https://github.com/user-attachments/files/19595902/5w2h.sprint1.1.xlsx)
   
 - *2ª Sprint*
+ ![image](https://github.com/user-attachments/assets/2c100310-d848-405c-8e5b-ecda85532be0)
+  - *arquivo:*[5w2h.sprint2.xlsx](https://github.com/user-attachments/files/20125875/5w2h.sprint1.1.1.xlsx)
+
+
 
 - *3ª Sprint*
   
@@ -95,8 +99,9 @@ Valores:
 - [Teams](https://teams.microsoft.com/)
 - [Canva](https://www.canva.com/pt_br/)
 
- 
- # *Burndown*
+# *Progresso MVP*
+- [Sprint 2](https://github.com/user-attachments/files/20125713/API-4o-Semestre.pptx.pptx)
+
 
 # *Backlog*
 ## *Sprint um*:
@@ -110,13 +115,13 @@ Valores:
 - [x] Documentar todas as informações e processos;
      
 ## *Sprint dois*:
-- [ ] Fazer analise dos terminais portuários;
-- [ ] Investigação das questões apresentadas pelo cliente;
-- [ ] Estudo código Python;
-- [ ] Dar início no Dashboard;
-- [ ] Atualização JiraSoftware;
-- [ ] Atualização GitHub;
-- [ ] Documentar todas as informações e processos;
+- [x] Fazer analise dos terminais portuários;
+- [x] Investigação das questões apresentadas pelo cliente;
+- [x] Estudo código Python;
+- [x] Dar início no Dashboard;
+- [x] Atualização JiraSoftware;
+- [x] Atualização GitHub;
+- [x] Documentar todas as informações e processos;
 
 ## *Sprint três*:
 - [ ] Ajustes no Dashboard de acordo com feedback do cliente;
@@ -130,37 +135,4 @@ Valores:
 - [ ] Ajuste do dashboard de acordo com resoluções do cliente;
 - [ ] Documentar todas as informações e processos;
 
-# Competências desenvolvidas
 
-# Hard Skills (saber tecnológico)
-<details>
-<summary>Hard Skills desenvolvidas</summary>
- 
-| Tecnologia/Metodologia | Classificação |
-| ---------------------- | ------------- |
-| GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Python | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Markdown | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Git Projects | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Slack | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
- 
-</details>
-
-# Soft Skills (saber comportamental)
-<details>
-<summary>Soft Skills desenvolvidas</summary>
-
-| Habilidades | Classificação |
-| ---------------------- | ------------- |
-| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
-| Colaboração | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Comunicação | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Autonomia | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Resiliência | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Proatividade | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-
-</details>
