@@ -27,7 +27,7 @@ Sprint | Previsão | Status| Histórico|
 |Kick Off | 14/03/2025 | Concluído |-----------------| 
 |01| 04/04/2025| Concluído |[Ver relatório](https://github.com/user-attachments/files/19611151/RELATORIO.SPRINT.1.LOGFREE.1.pdf)|
 |02| 09/05/2025| Concluído |[Ver relatório](https://github.com/user-attachments/files/20125480/relatorio.sprint.2.pdf)|
-|03| 30/05/2025 | Concluído ||
+|03| 30/05/2025 | Concluído |[Ver relatório](https://github.com/user-attachments/files/20527844/RELATORIO.SPRINT.3.LOGFREE.1.docx)|
 |04| 27/06/2025 | Pendente ||
 |Feira de Soluções|29/05/2025 | Pendente ||
 
@@ -98,7 +98,10 @@ Valores:
 - [Canva](https://www.canva.com/pt_br/)
 
 # *Progresso MVP*
-- [Sprint 2](https://github.com/user-attachments/files/20125713/API-4o-Semestre.pptx.pptx)
+- [*Sprint 2*](https://github.com/user-attachments/files/20125713/API-4o-Semestre.pptx.pptx)
+  
+- [*Sprint 3*](https://github.com/user-attachments/files/20527832/API.-.Logfree.pptx)
+
 
 
 # *Backlog*
