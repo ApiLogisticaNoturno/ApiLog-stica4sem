@@ -27,7 +27,7 @@ Sprint | Previsão | Status| Histórico|
 |Kick Off | 14/03/2025 | Concluído |-----------------| 
 |01| 04/04/2025| Concluído |[Ver relatório](https://github.com/user-attachments/files/19611151/RELATORIO.SPRINT.1.LOGFREE.1.pdf)|
 |02| 09/05/2025| Concluído |[Ver relatório](https://github.com/user-attachments/files/20125480/relatorio.sprint.2.pdf)|
-|03| 16/05/2025 | Pendente ||
+|03| 30/05/2025 | Concluído ||
 |04| 27/06/2025 | Pendente ||
 |Feira de Soluções|29/05/2025 | Pendente ||
 
@@ -78,10 +78,10 @@ Valores:
  ![image](https://github.com/user-attachments/assets/2c100310-d848-405c-8e5b-ecda85532be0)
   - *arquivo:*[5w2h.sprint2.xlsx](https://github.com/user-attachments/files/20125875/5w2h.sprint1.1.1.xlsx)
 
-
-
 - *3ª Sprint*
-  
+ ![image](https://github.com/user-attachments/assets/c96ba228-4ff8-4b94-a8bf-f4a8fa9d59ea)
+  - *arquivo:*[5w2h.sprint3.xlsx](https://github.com/user-attachments/files/20527738/5w2h.sprint3.xlsx)
+
 - *4ª Sprint*
 
 # *Tecnologias Utilizadas*
@@ -122,12 +122,12 @@ Valores:
 - [x] Documentar todas as informações e processos;
 
 ## *Sprint três*:
-- [ ] Ajustes no Dashboard de acordo com feedback do cliente;
-- [ ] Atualização dos módulos no Dashboard;
-- [ ] Atualização JiraSoftware;
-- [ ] Atualização GitHub;
-- [ ] Criar apresentação para a Feira de Soluições;
-- [ ] Documentar todas as informações e processos;
+- [x] Ajustes no Dashboard de acordo com feedback do cliente;
+- [x] Atualização dos módulos no Dashboard;
+- [x] Atualização JiraSoftware;
+- [x] Atualização GitHub;
+- [x] Criar apresentação para a Feira de Soluições;
+- [x] Documentar todas as informações e processos;
 
 ## *Sprint quatro*:
 - [ ] Ajuste do dashboard de acordo com resoluções do cliente;
