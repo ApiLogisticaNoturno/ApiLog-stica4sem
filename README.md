@@ -13,10 +13,8 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [SWOT](#Análise-SWOT-da-Empresa)
 * [5W2H](#5W2H)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Burndown](#Burndown)
-* [Arquivos](#Arquivos)
+* [Progresso MVP](#Progresso-MVP)
 * [Backlog do produto](#Backlog)
-* [Competências desenvolvidas](#Competências-desenvolvidas)
 
 # _Projeto (API)_
 Projeto pedagógico alicerçado na Metodologia Ágil para ensino-aprendizado, focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL); validação externa e metodologia ágil.
