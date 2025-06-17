@@ -83,6 +83,8 @@ Valores:
   - *arquivo:*[5w2h.sprint3.xlsx](https://github.com/user-attachments/files/20527738/5w2h.sprint3.xlsx)
 
 - *4ª Sprint*
+![Sprint 4](https://github.com/user-attachments/assets/35dea589-b2c0-4cd9-bb16-3378ea6b2915)
+  - *arquivo:*[5w2h.sprint4.xlsx](https://github.com/user-attachments/files/20784034/5w2h.sprint.4.1.xlsx)
 
 # *Tecnologias Utilizadas*
 ![TECNOLOGIAS ATT](https://github.com/user-attachments/assets/2e09e388-c429-448d-b38e-4daba5e6fcb2)
