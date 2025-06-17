@@ -28,7 +28,7 @@ Sprint | Previsão | Status| Histórico|
 |01| 04/04/2025| Concluído |[Ver relatório](https://github.com/user-attachments/files/19611151/RELATORIO.SPRINT.1.LOGFREE.1.pdf)|
 |02| 09/05/2025| Concluído |[Ver relatório](https://github.com/user-attachments/files/20125480/relatorio.sprint.2.pdf)|
 |03| 30/05/2025 | Concluído |[Ver relatório](https://github.com/user-attachments/files/20527844/RELATORIO.SPRINT.3.LOGFREE.1.docx)|
-|04| 16/06/2025 | Concluído ||
+|04| 16/06/2025 | Concluído |[Ver relatóro](https://github.com/user-attachments/files/20784689/RELATORIO.SPRINT.4.LOGFREE.1.docx)|
 |Feira de Soluções| 16/06/2025 | Pendente ||
 
 # _Autores_
